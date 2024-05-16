@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "776380852688",
+    "project_id": "budget-cars-17ba4",
+    "storage_bucket": "budget-cars-17ba4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776380852688:android:f70bee28362c0bc218f1d5",
+        "android_client_info": {
+          "package_name": "com.Ebby.budgetcars"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7FmSrx9EQ3pRet6SjNb84pr-9TbBxECs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
